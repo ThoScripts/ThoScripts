@@ -55,6 +55,35 @@ My current learning journey includes software architecture, backend engineering,
 ```
 
 ---
+## 💡 Areas of Expertise
+
+```text
+🏗 Software Architecture
+┣━ Modular System Design
+┣━ Object-Oriented Programming
+┗━ Reusable Components
+
+⚡ Performance Engineering
+┣━ Memory Optimization
+┣━ Event Optimization
+┣━ Network Synchronization
+┗━ Profiling & Benchmarking
+
+🎮 FiveM Development
+┣━ Gameplay Systems
+┣━ Gang & Territory Control
+┣━ Inventory Integrations
+┣━ UI/UX Development
+┣━ Server Infrastructure
+┗━ Backend Logic
+
+🌐 Cross Framework
+┣━ ESX
+┣━ QBCore
+┣━ Qbox
+┗━ ox_lib Ecosystem
+```
+---
 
 # Featured Projects
 
