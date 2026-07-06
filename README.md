@@ -72,12 +72,6 @@ Designed to write once and support multiple frameworks.
 
 ---
 
-### 🚚 Truck Job System
-
-A complete logistics resource designed for roleplay servers with a focus on scalability, synchronization and performance.
-
----
-
 ### ⚙ FiveM Performance Research
 
 Researching
