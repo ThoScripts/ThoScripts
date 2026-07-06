@@ -1,14 +1,16 @@
 <div align="center">
 
-# ThoDev
+# 👋 Hi, I'm ThoDev
 
-### FiveM Systems Engineer • Server Architecture • Performance Optimization
+### Software Engineer • FiveM Infrastructure • System Architecture
 
-> *Building scalable systems, not just scripts.*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=FiveM+Backend+Developer;Server+Architecture;Performance+Optimization;Object-Oriented+Programming;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+FiveM+Systems;Performance+Optimization+Enthusiast;Software+Architecture+%7C+Object-Oriented+Programming;Backend+Development+%7C+Infrastructure;Always+Learning+Something+New"/>
 
 <br>
+
+<img src="https://img.shields.io/github/followers/ThoDev?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/ThoDev?style=for-the-badge&logo=github"/>
 
 <img src="https://komarev.com/ghpvc/?username=ThoDev&style=for-the-badge&color=58A6FF"/>
 
@@ -16,89 +18,162 @@
 
 ---
 
-## About
+# About Me
 
-Software Developer tập trung vào việc xây dựng **hệ thống FiveM có khả năng mở rộng**, tối ưu hiệu năng và dễ bảo trì.
+I'm a developer focused on building **high-performance systems** for FiveM.
 
-Mình dành phần lớn thời gian nghiên cứu về:
+Rather than creating individual scripts, I enjoy designing reusable architectures that are scalable, maintainable and easy to extend.
 
-- Server Architecture
-- Performance Optimization
-- Object-Oriented Programming
-- Resource Management
-- Backend Systems
-- Cross Framework Development
-
-Mục tiêu không chỉ là tạo ra script, mà còn xây dựng những hệ thống có thể hoạt động ổn định trên các server quy mô lớn.
+My current learning journey includes software architecture, backend engineering, performance optimization and advanced object-oriented programming.
 
 ---
 
-## Focus
+# Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,ts,js,nodejs,react,vue,git,github,vscode,docker,mysql"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```text
+🏗 Software Architecture
+
+⚡ Performance Optimization
+
+🧠 Advanced Object-Oriented Programming
+
+🌉 Cross Framework Development
+
+📦 Modular System Design
+
+🚀 Backend Engineering
 ```
-Architecture
-██████████████████ 100%
 
-Optimization
-█████████████████░ 95%
+---
 
-FiveM Systems
-█████████████████░ 95%
+# Featured Projects
 
-Lua
-████████████████░░ 90%
+### 🌉 CommunityBridge
 
-OOP Design
-███████████████░░░ 85%
+Cross-framework abstraction layer supporting:
+
+- ESX
+- QBCore
+- Qbox
+- ox_inventory
+- ox_lib
+
+Designed to write once and support multiple frameworks.
+
+---
+
+### 🚚 Truck Job System
+
+A complete logistics resource designed for roleplay servers with a focus on scalability, synchronization and performance.
+
+---
+
+### ⚙ FiveM Performance Research
+
+Researching
+
+- Event Flow
+- Memory Management
+- Resource Optimization
+- Network Synchronization
+- Large Server Architecture
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThoDev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThoDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThoDev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Learning Journey
+
+```text
+2024
+Started developing FiveM resources.
+
+↓
+
+2025
+Focused on reusable frameworks and backend systems.
+
+↓
+
+2026
+Studying software architecture, performance engineering,
+advanced OOP and scalable server infrastructure.
 ```
 
 ---
 
-## Current Journey
-
-- Learning Advanced OOP
-- Studying Software Architecture
-- Optimizing FiveM Server Performance
-- Building Reusable Frameworks
-- Exploring Large Scale Backend Design
-
----
-
-## Featured Work
-
-🚚 Truck Job System
-
-A logistics system designed for long-term roleplay servers with emphasis on scalability and performance.
-
-🌉 Community Bridge
-
-A framework abstraction layer allowing resources to work across ESX, QBCore and Qbox with minimal changes.
-
-⚙️ Server Optimization
-
-Researching synchronization, memory usage, event flow and network performance for high-population FiveM servers.
-
----
-
-## Philosophy
-
-> Clean Architecture over Quick Fixes.
+# Philosophy
 
 > Performance is designed, not patched.
 
-> Learn deeply. Build simply.
+> Clean architecture scales better than quick fixes.
+
+> Learn deeply. Build with purpose.
 
 ---
 
-## Community
+# Connect
 
-I'm always open to discussing:
+<p align="center">
 
-- FiveM Development
-- Large Server Architecture
-- Optimization Techniques
-- OOP & Design Patterns
-- GTA V Roleplay Systems
-- Open Source Projects
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Let's build better systems together.
+<a href="https://discord.gg/yourserver">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@yourchannel">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+*"Building systems today for tomorrow's challenges."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+
+</div>
