@@ -1,192 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm TxM
+# ThoDev
 
-### 🚀 FiveM Developer • QBCore • ESX • Qbox • UI/UX
+### FiveM Systems Engineer • Server Architecture • Performance Optimization
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=5DA9FF&center=true&vCenter=true&width=700&lines=Building+High+Performance+FiveM+Resources;Cross+Framework+Developer;Lua+%7C+JavaScript+%7C+Vue+%7C+React;Open+Source+%26+Community+Driven" />
+> *Building scalable systems, not just scripts.*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=FiveM+Backend+Developer;Server+Architecture;Performance+Optimization;Object-Oriented+Programming;Always+Learning"/>
 
 <br>
 
-<img src="https://img.shields.io/github/followers/TxM?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/TxM?style=for-the-badge&logo=github"/>
-<img src="https://komarev.com/ghpvc/?username=TxM&style=for-the-badge&color=5DA9FF"/>
-
-<br><br>
-
-<a href="https://discord.gg/txmscripts">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@txmscripts">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://txm-scripts.gitbook.io/txm-scripts">
-<img src="https://img.shields.io/badge/Documentation-00C853?style=for-the-badge&logo=gitbook&logoColor=white"/>
-</a>
-
-<a href="https://zypage.com/txmscripts">
-<img src="https://img.shields.io/badge/Donate-FF5E5B?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=ThoDev&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+## About
 
-```lua
-Developer = {
-    Name = "TxM",
-    Experience = "1+ Years",
-    Focus = {
-        "FiveM Development",
-        "Performance Optimization",
-        "UI / UX",
-        "Cross Framework",
-        "Open Source"
-    },
+Software Developer tập trung vào việc xây dựng **hệ thống FiveM có khả năng mở rộng**, tối ưu hiệu năng và dễ bảo trì.
 
-    Frameworks = {
-        "QBCore",
-        "ESX",
-        "Qbox"
-    }
-}
+Mình dành phần lớn thời gian nghiên cứu về:
+
+- Server Architecture
+- Performance Optimization
+- Object-Oriented Programming
+- Resource Management
+- Backend Systems
+- Cross Framework Development
+
+Mục tiêu không chỉ là tạo ra script, mà còn xây dựng những hệ thống có thể hoạt động ổn định trên các server quy mô lớn.
+
+---
+
+## Focus
+
+```
+Architecture
+██████████████████ 100%
+
+Optimization
+█████████████████░ 95%
+
+FiveM Systems
+█████████████████░ 95%
+
+Lua
+████████████████░░ 90%
+
+OOP Design
+███████████████░░░ 85%
 ```
 
 ---
 
-# 🛠 Tech Stack
+## Current Journey
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,vue,react,html,css,git,github,vscode" />
-
-</p>
-
----
-
-# 🧩 Development Philosophy
-
-> **Write Once • Run Everywhere**
-
-✅ Modular Architecture
-
-✅ Clean Code
-
-✅ High Performance
-
-✅ Easy Maintenance
-
-✅ Cross Framework Support
-
-✅ Reusable Components
+- Learning Advanced OOP
+- Studying Software Architecture
+- Optimizing FiveM Server Performance
+- Building Reusable Frameworks
+- Exploring Large Scale Backend Design
 
 ---
 
-# 🚀 Featured Projects
+## Featured Work
 
-## 🚚 TxM Truck Job
+🚚 Truck Job System
 
-> Immersive logistics & trucking experience for FiveM.
+A logistics system designed for long-term roleplay servers with emphasis on scalability and performance.
 
-- Realistic deliveries
-- High optimization
-- Multiplayer friendly
-- Configurable
-- Clean UI
+🌉 Community Bridge
 
----
+A framework abstraction layer allowing resources to work across ESX, QBCore and Qbox with minimal changes.
 
-## 🌉 CommunityBridge
+⚙️ Server Optimization
 
-The bridge between every framework.
-
-Supports:
-
-- ESX
-- QBCore
-- Qbox
-- ox_inventory
-- qb-inventory
-- ox_lib
-- mysql
-
-✔ GPL v3
-
-✔ Write Once
-
-✔ Cross Platform
+Researching synchronization, memory usage, event flow and network performance for high-population FiveM servers.
 
 ---
 
-# 📚 Documentation
+## Philosophy
 
-| Resource | Link |
-|----------|------|
-| 📘 Documentation | https://txm-scripts.gitbook.io/txm-scripts |
-| 💬 Discord | https://discord.gg/txmscripts |
-| ▶ YouTube | https://youtube.com/@txmscripts |
-| ❤️ Donate | https://zypage.com/txmscripts |
+> Clean Architecture over Quick Fixes.
 
----
+> Performance is designed, not patched.
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TxM&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TxM&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxM&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+> Learn deeply. Build simply.
 
 ---
 
-# 🏆 GitHub Trophies
+## Community
 
-<p align="center">
+I'm always open to discussing:
 
-<img src="https://github-profile-trophy.vercel.app/?username=TxM&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+- FiveM Development
+- Large Server Architecture
+- Optimization Techniques
+- OOP & Design Patterns
+- GTA V Roleplay Systems
+- Open Source Projects
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TxM&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build reusable systems
-- ⚡ Better optimization
-- 🌉 Improve CommunityBridge
-- 📚 Better documentation
-- ❤️ Grow the FiveM community
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting.
-
-*"Performance isn't a feature, it's a foundation."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5DA9FF&height=120&section=footer"/>
-
-</div>
+Let's build better systems together.
